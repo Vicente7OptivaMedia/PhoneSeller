@@ -1,0 +1,45 @@
+brand,model,sd_card,main_camera,resolution,display,sim_card,os,color,screen_size,battery,storage,ram,selfie_camera,price
+Samsung,Galaxy S10,yes,"3 Cameras: 12, 12, 16 MP",1440 x 3040,AMOLED,Single,Android,White,6.1,3400,128,8,10,2450
+Samsung,Galaxy Note 20 Ultra,yes,"3 Cameras: 108, 12, 12 MP",1440 x 3088,AMOLED,Dual,Android,Bronze,6.9,4500,128,12,10,5000
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Black,6.4,5000,256,8,32,3000
+Tecno,Camon 20 Pro,no,"2 Cameras: 64, 2 MP",1080 x 2400,AMOLED,Dual,Android,Black,6.67,5000,256,8,32,1900
+Samsung,Galaxy S22 Ultra,no,"4 Cameras: 108, 10, 10, 12 MP",1400 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,40,5750
+Samsung,Galaxy A73 5G,yes,"4 Cameras: 108, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Black,6.7,5000,256,8,32,2555
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Blue,6.4,5000,256,8,32,2800
+Samsung,Galaxy S23 Ultra,no,"4 Cameras: 200, 10, 10, 12 MP",1440 x 3088,AMOLED,Dual,Android,Green,6.8,5000,512,12,12,8480
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,White,6.4,5000,256,8,32,3710
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Black,6.4,5000,256,8,32,3710
+Tecno,Camon 20 Premier  5G,yes,"3 Cameras: 50, 108, 2 MP",1080 x 2400,AMOLED,Dual,Android,Blue,6.67,5000,512,8,32,2440
+Tecno,Camon 20 Premier  5G,yes,"3 Cameras: 50, 108, 2 MP",1080 x 2400,AMOLED,Dual,Android,Blue,6.67,5000,512,8,32,2450
+Samsung,Galaxy S23 Ultra,no,"4 Cameras: 200, 10, 10, 12 MP",1440 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,12,7999
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Blue,6.4,5000,256,8,32,2700
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Silver,6.4,5000,256,8,32,3940
+Samsung,Galaxy S23 Ultra,no,"4 Cameras: 200, 10, 10, 12 MP",1440 x 3088,AMOLED,Dual,Android,Green,6.8,5000,512,12,12,8200
+Tecno,Camon 20 Pro,no,"2 Cameras: 64, 2 MP",1080 x 2400,AMOLED,Dual,Android,Black,6.67,5000,256,8,32,1930
+Tecno,Spark 10 Pro,yes,1 Cameras: 50 MP,1080 x 2460,IPS LCD,Dual,Android,Blue,6.8,5000,256,8,32,1400
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Black,6.4,5000,256,8,32,3720
+Tecno,Camon 20 Premier  5G,yes,"3 Cameras: 50, 108, 2 MP",1080 x 2400,AMOLED,Dual,Android,Black,6.67,5000,512,8,32,2430
+Tecno,Camon 20 Pro,no,"2 Cameras: 64, 2 MP",1080 x 2400,AMOLED,Dual,Android,Green,6.67,5000,256,8,32,1999
+Samsung,Galaxy A53 5G,yes,"4 Cameras: 64, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Blue,6.46,5000,256,8,32,2050
+Samsung,Galaxy A73 5G,yes,"4 Cameras: 108, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Blue,6.7,5000,256,8,32,2550
+Tecno,Spark 10 Pro,yes,1 Cameras: 50 MP,1080 x 2460,IPS LCD,Dual,Android,Blue,6.8,5000,256,8,32,1410
+Samsung,Galaxy A53 5G,yes,"4 Cameras: 64, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Blue,6.46,5000,256,8,32,2100
+Samsung,Galaxy A73 5G,yes,"4 Cameras: 108, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Blue,6.7,5000,256,8,32,2560
+Samsung,Galaxy S22 Ultra,no,"4 Cameras: 108, 10, 10, 12 MP",1400 x 3088,AMOLED,Dual,Android,Bronze,6.8,5000,512,12,40,5740
+Samsung,Galaxy S23 Ultra,no,"4 Cameras: 200, 10, 10, 12 MP",1440 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,12,7500
+Samsung,Galaxy S22 Ultra,no,"4 Cameras: 108, 10, 10, 12 MP",1400 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,40,5500
+Samsung,Galaxy S22 Ultra,no,"4 Cameras: 108, 10, 10, 12 MP",1400 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,40,5000
+Samsung,Galaxy A73 5G,yes,"4 Cameras: 108, 12, 5, 5 MP",1080 x 2400,Super AMOLED,Dual,Android,Blue,6.7,5000,256,8,32,2500
+Apple,iPhone 11 Pro Max,no,"3 Cameras: 12, 12, 12 MP",1242 x 2688,Super Retina OLED,Nano-SIM,IOS,Green,6.5,3500,512,,12,4250
+Samsung,Galaxy S23 Ultra,no,"4 Cameras: 200, 10, 10, 12 MP",1440 x 3088,AMOLED,Dual,Android,Black,6.8,5000,512,12,12,8770
+Samsung,Galaxy A54 5G,yes,"3 Cameras: 50, 12, 5 MP",1080 x 2340,Super AMOLED,Dual,Android,Black,6.4,5000,256,8,32,4280
+Tecno,Spark 10 Pro,yes,1 Cameras: 50 MP,1080 x 2460,IPS LCD,Dual,Android,Black,6.8,5000,256,8,32,1435
+Apple,iPhone 13 Pro Max,no,1 Cameras: 12 MP,1284 x 2778,OLED,Single,IOS,Blue,6.7,4373,256,6,12,8500
+Apple,iPhone 13 Pro Max,no,1 Cameras: 12 MP,1284 x 2778,OLED,Single,IOS,Blue,6.7,4373,512,6,12,9800
+Apple,iPhone 13,no,1 Cameras: 12 MP,1170 x 2532,OLED,Single,,Black,6.1,3240,128,4,12,8499
+Apple,iPhone 14 Pro Max,no,"3 Cameras: 48, 12, 12 MP",1290 x 2796,OLED,,iOS,Other,,4323,256,,12,12999
+Apple,iPhone 14 Plus,no,"2 Cameras: 12, 12 MP",1284 x 2778,OLED,,iOS,Black,5.1,4323,128,,12,9999
+Apple,iPhone 14 Pro Max,no,"3 Cameras: 48, 12, 12 MP",1290 x 2796,OLED,,iOS,Other,,4323,128,,12,11500
+Apple,iPhone 14 Pro Max,no,"3 Cameras: 48, 12, 12 MP",1290 x 2796,OLED,,iOS,Purple,5.1,4323,512,,12,14999
+Apple,iPhone 11,no,"2 Cameras: 12, 12 MP",828 x 1792,Retina IPS LCD,Nano-SIM,IOS,Green,6.1,3110,128,6,12,4500
+Google,Pixel 4,no,"2 Cameras: 16, 12 MP",1080 x 2280,P-OLED,Nano-SIM,Android,White,5.7,2800,128,6,8,2700
